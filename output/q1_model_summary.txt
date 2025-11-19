@@ -1,0 +1,12 @@
+=== Coefficient Significance (p-values) ===
+================================================================================
+Intercept     1.811739e-126
+MedInc         0.000000e+00
+AveBedrms      2.440565e-01
+Population     2.078771e-08
+
+=== Key Statistics ===
+================================================================================
+R-squared:                     0.4743
+Number of Observations:        20640
+AIC (Akaike Information Criterion): 51221.28
